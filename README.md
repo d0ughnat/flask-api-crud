@@ -1,4 +1,4 @@
-# flask-api-crud
+# flask crud api
 #in this project using the basic crud operation using the http methods such as GET,POST,PUT,DELETE
 # install the following 
 pip install flask
